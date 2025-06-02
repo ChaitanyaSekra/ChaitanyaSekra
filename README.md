@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a B.Tech. CSE student with majors in AI and ML.<br>I am currently working on a real-time traffic management system.<br>I have learned Python, SQL, and C, and I am pretty good at designing stuff.<br>Fun fact: I have also produced music
+I am a B.Tech. CSE student with majors in AI and ML.<br>I have learned Python, SQL, and C, and I am pretty good at designing stuff.<br>Fun fact: I have also produced music
 
 
 ## 🌐 Socials:
