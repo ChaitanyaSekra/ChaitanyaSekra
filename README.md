@@ -2,7 +2,7 @@
 <h1 align="center">Hey, I'm Chaitanya Sekra 👾</h1>
 
 <p align="center">
-  <em>A coder by day, <strong>lo-fi lyricist</strong> by night 🎸<br>
+  <em>A coder by day, <strong>hardcore lyricist</strong> by night 🎸<br>
   Passionate about AI, FastAPI, and making real-world chaos <strong>look simple.</strong></em>
 </p>
 
