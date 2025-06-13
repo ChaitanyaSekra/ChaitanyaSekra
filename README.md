@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/video.mp4" alt="Pixel City Banner" width="100%">
+  <img src="assets/video.gif" alt="Pixel City Banner" width="100%">
 </p>
 
 <h1 align="center">Hey, I'm Chaitanya Sekra 👾</h1>
