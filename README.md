@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.gif" alt="Pixel City Banner" width="100%">
+  <img src="assets/video.mp4" alt="Pixel City Banner" width="100%">
 </p>
 
 <h1 align="center">Hey, I'm Chaitanya Sekra 👾</h1>
@@ -41,4 +41,35 @@
 ---
 
 ### 🧙 RPG Character Sheet
+
+
+---
+
+### 📊 Stats That Flex
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🔎 Easter Egg: Highlight Below
+
+<span style="color:white">
+If you're reading this, you're the chosen one 🧙‍♂️  
+Try visiting `/secret-sneak-peek` in my portfolio 😉
+</span>
+
+---
+
+### 🎧 Now Vibing
+
+[![Spotify](https://spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+
+---
+
+> *“Code like nobody's watching, deploy like everyone is.”*  
+> — Me, while sipping chai at 2AM ☕
+
 
