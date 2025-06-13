@@ -20,7 +20,7 @@
 
 ### 🧪 Currently Brewing
 
-- 🚦 Real-Time Traffic Management System [🛠 In Progress]
+- 🚦 Real-Time Traffic Management System
 - 🔐 Face Recognition Door Lock with IoT
 - 🍿 Movie Recommender Web App (FastAPI + PostgreSQL)
 
