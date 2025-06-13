@@ -13,8 +13,8 @@
 - 🔭 Building: **AI-Based Traffic & Face Recognition Systems**
 - 🛠️ Tech Stack: Python, FastAPI, OpenCV, YOLOv8, SQL, HTML, CSS, JS, Flask, Pandas, NumPy, Scikit
 - 🎤 Lyricist & Vocalist (yeah, I drop bars too)
-- 🎓 B.Tech | ML/IoT | AI ML Intern at [Data Ingenious Global Ltd.](https://www.data.in/)
-- 💌 Reach me: [LinkedIn](linkedin.com/in/chaitanya-sekra/)  | [Portfolio](https://chaitanya-sekra-portfolio.netlify.app/)
+- 🎓 B.Tech | AI-ML | AI ML Intern at [Data Ingenious Global Ltd.](https://www.data.in/)
+- 💌 Reach me: [LinkedIn](linkedin.com/in/chaitanya-sekra/)  | [Portfolio](https://chaitanya-sekra-portfolio.netlify.app/) | [Email](work.chaitanyasekra@gmail.com)
 
 ---
 
