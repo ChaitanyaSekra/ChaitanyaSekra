@@ -52,10 +52,12 @@ Weapon: VSCode + FastAPI + Keyboard fury ⚔️
 Side Quest: Heal traffic with YOLOv8
 HP: ▓▓▓▓▓▓▓░░░
 XP: ███████░░░ 72%
-Companions: Pandas, Numpy, Scikit-learn 
+Companions: Pandas, Numpy, Scikit-learn
+yaml: data
+```
 ---
 
-
+###
 > *“Code like nobody's watching, deploy like everyone is.”*  
 > — Me, while sipping redbull at 2AM ⚡
 
