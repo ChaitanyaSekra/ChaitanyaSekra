@@ -50,7 +50,7 @@ Name: Chaitanya Sekra
 Class: Machine Learning Engineer (Lv. 21)
 Weapon: VSCode + FastAPI + Keyboard fury ⚔️
 Side Quest: Heal traffic with YOLOv8
-HP: ▓▓▓▓▓▓▓░░░
+HP: ▓▓▓▓▓▓▓▓▓░ 88%
 XP: ███████░░░ 72%
 Companions: Pandas, Numpy, Scikit-learn
 yaml: data
