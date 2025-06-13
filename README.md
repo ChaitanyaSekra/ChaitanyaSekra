@@ -42,13 +42,13 @@
 
 ### 🧙 RPG Character Sheet
 
-Name: Chaitanya Sekra
-Class: Machine Learning Engineer (Lv. 21)
-Weapon: VSCode + FastAPI + Keyboard fury ⚔️
-Side Quest: Heal traffic with YOLOv8
-HP: ▓▓▓▓▓▓▓░░░
-XP: ███████░░░ 72%
-Companions: Pandas, Numpy, Pydantic
+-Name: Chaitanya Sekra
+-Class: Machine Learning Engineer (Lv. 21)
+-Weapon: VSCode + FastAPI + Keyboard fury ⚔️
+-Side Quest: Heal traffic with YOLOv8
+-HP: ▓▓▓▓▓▓▓░░░
+-XP: ███████░░░ 72%
+-Companions: Pandas, Numpy, Pydantic
 ---
 
 ### 📊 Stats That Flex
