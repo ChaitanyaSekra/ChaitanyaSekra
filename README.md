@@ -62,7 +62,7 @@
 
 ### 🎧 Now Vibing
 
-[![Spotify](https://spotify-readme.vercel.app/api/spotify)]([https://open.spotify.com/user/yourusername](https://open.spotify.com/user/31rq4ylqlybc6pxscxv4fzh43sae?si=ad36d2ae385745fc))
+[![Spotify](https://spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/user/31rq4ylqlybc6pxscxv4fzh43sae?si=ad36d2ae385745fc)
 
 ---
 
