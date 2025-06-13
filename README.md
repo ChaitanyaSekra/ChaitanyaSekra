@@ -14,7 +14,7 @@
 - 🛠️ Tech Stack: Python, FastAPI, OpenCV, YOLOv8, SQL, HTML, CSS, JS, Flask, Pandas, NumPy, Scikit
 - 🎤 Lyricist & Vocalist (yeah, I drop bars too)
 - 🎓 B.Tech | AI-ML | AI ML Intern at [Data Ingenious Global Ltd.](https://www.data.in/)
-- 💌 Reach me: [LinkedIn](linkedin.com/in/chaitanya-sekra/)  | [Portfolio](https://chaitanya-sekra-portfolio.netlify.app/) | [Email](work.chaitanyasekra@gmail.com)
+- 💌 Reach me: [LinkedIn](linkedin.com/in/chaitanya-sekra/)  | [Portfolio](https://chaitanya-sekra-portfolio.netlify.app/) | [Email](https://mail.google.com/mail/u/0/?fs=1&to=work.chaitanyasekra@gmail.com&tf=cm)
 
 ---
 
