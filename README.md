@@ -17,7 +17,7 @@
 - 🛠️ Tech Stack: Python, FastAPI, OpenCV, YOLOv8, SQL
 - 🎤 Lyricist & Vocalist (yeah, I drop bars too)
 - 🎓 B.Tech | ML/IoT | Turing Sapiens Club Treasurer
-- 💌 Reach me: [LinkedIn](#) | [WhatsApp Store](#) | [Portfolio](#)
+- 💌 Reach me: [LinkedIn](linkedin.com/in/chaitanya-sekra/)  | [Portfolio](https://chaitanya-sekra-portfolio.netlify.app/)
 
 ---
 
