@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/video.gif" alt="Pixel City Banner" width="100%">
-</p>
 
 <h1 align="center">Hey, I'm Chaitanya Sekra 👾</h1>
 
@@ -51,12 +48,6 @@
 - Companions: Pandas, Numpy, Scikit
 ---
 
-
-### 🎧 Now Vibing
-
-[![Spotify](https://spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/user/31rq4ylqlybc6pxscxv4fzh43sae?si=ad36d2ae385745fc)
-
----
 
 > *“Code like nobody's watching, deploy like everyone is.”*  
 > — Me, while sipping redbull at 2AM ⚡
