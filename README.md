@@ -51,14 +51,6 @@
 - Companions: Pandas, Numpy, Scikit
 ---
 
-### 📊 Stats That Flex
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ### 🎧 Now Vibing
 
@@ -67,6 +59,6 @@
 ---
 
 > *“Code like nobody's watching, deploy like everyone is.”*  
-> — Me, while sipping chai at 2AM ☕
+> — Me, while sipping redbull at 2AM ⚡
 
 
