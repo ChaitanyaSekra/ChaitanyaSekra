@@ -14,9 +14,9 @@
 ### 🎮 TL;DR — Me in 10 Seconds
 
 - 🔭 Building: **AI-Based Traffic & Face Recognition Systems**
-- 🛠️ Tech Stack: Python, FastAPI, OpenCV, YOLOv8, SQL
+- 🛠️ Tech Stack: Python, FastAPI, OpenCV, YOLOv8, SQL, HTML, CSS, JS, Flask, Pandas, NumPy, Scikit
 - 🎤 Lyricist & Vocalist (yeah, I drop bars too)
-- 🎓 B.Tech | ML/IoT | Turing Sapiens Club Treasurer
+- 🎓 B.Tech | ML/IoT | AI ML Intern at [Data Ingenious Global Ltd.](https://www.data.in/)
 - 💌 Reach me: [LinkedIn](linkedin.com/in/chaitanya-sekra/)  | [Portfolio](https://chaitanya-sekra-portfolio.netlify.app/)
 
 ---
