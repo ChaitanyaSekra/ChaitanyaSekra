@@ -48,7 +48,7 @@
 - Side Quest: Heal traffic with YOLOv8
 - HP: ▓▓▓▓▓▓▓░░░
 - XP: ███████░░░ 72%
-- Companions: Pandas, Numpy, Pydantic
+- Companions: Pandas, Numpy, Scikit
 ---
 
 ### 📊 Stats That Flex
@@ -60,18 +60,9 @@
 
 ---
 
-### 🔎 Easter Egg: Highlight Below
-
-<span style="color:white">
-If you're reading this, you're the chosen one 🧙‍♂️  
-Try visiting `/secret-sneak-peek` in my portfolio 😉
-</span>
-
----
-
 ### 🎧 Now Vibing
 
-[![Spotify](https://spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+[![Spotify](https://spotify-readme.vercel.app/api/spotify)]([https://open.spotify.com/user/yourusername](https://open.spotify.com/user/31rq4ylqlybc6pxscxv4fzh43sae?si=ad36d2ae385745fc))
 
 ---
 
