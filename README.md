@@ -53,7 +53,6 @@ Side Quest: Heal traffic with YOLOv8
 HP: ▓▓▓▓▓▓▓▓▓░ 88%
 XP: ███████░░░ 72%
 Companions: Pandas, Numpy, Scikit-learn
-yaml: data
 ```
 ---
 
